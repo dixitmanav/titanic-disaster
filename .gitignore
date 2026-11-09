@@ -1,0 +1,22 @@
+# Dataset files (download from Kaggle; see README)
+src/data/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editors / notebooks
+.vscode/
+.idea/
+.ipynb_checkpoints/
